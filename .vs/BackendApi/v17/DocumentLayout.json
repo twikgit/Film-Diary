@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\college\\projects\\Film-Diary\\BackendApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59A8C6E5-89AD-47CF-928D-D4FB6803843E}|BackendApi\\BackendApi.csproj|d:\\college\\projects\\film-diary\\backendapi\\backendapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A8C6E5-89AD-47CF-928D-D4FB6803843E}|BackendApi\\BackendApi.csproj|solutionrelative:backendapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D55BB7-D49F-4935-9198-9A0563662D86}|DataAccess\\DataAccess.csproj|d:\\college\\projects\\film-diary\\backendapi\\dataaccess\\models\\filmdiarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D55BB7-D49F-4935-9198-9A0563662D86}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\models\\filmdiarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D55BB7-D49F-4935-9198-9A0563662D86}|DataAccess\\DataAccess.csproj|d:\\college\\projects\\film-diary\\backendapi\\dataaccess\\interfaces\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D55BB7-D49F-4935-9198-9A0563662D86}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\interfaces\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D55BB7-D49F-4935-9198-9A0563662D86}|DataAccess\\DataAccess.csproj|d:\\college\\projects\\film-diary\\backendapi\\dataaccess\\wrapper\\repositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D55BB7-D49F-4935-9198-9A0563662D86}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\wrapper\\repositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D55BB7-D49F-4935-9198-9A0563662D86}|DataAccess\\DataAccess.csproj|d:\\college\\projects\\film-diary\\backendapi\\dataaccess\\wrapper\\irepositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D55BB7-D49F-4935-9198-9A0563662D86}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\wrapper\\irepositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7795309-9C00-4B59-BC99-A2EB5C7E0219}|BusinessLogic\\BusinessLogic.csproj|d:\\college\\projects\\film-diary\\backendapi\\businesslogic\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7795309-9C00-4B59-BC99-A2EB5C7E0219}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7795309-9C00-4B59-BC99-A2EB5C7E0219}|BusinessLogic\\BusinessLogic.csproj|d:\\college\\projects\\film-diary\\backendapi\\businesslogic\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7795309-9C00-4B59-BC99-A2EB5C7E0219}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D55BB7-D49F-4935-9198-9A0563662D86}|DataAccess\\DataAccess.csproj|d:\\college\\projects\\film-diary\\backendapi\\dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D55BB7-D49F-4935-9198-9A0563662D86}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D55BB7-D49F-4935-9198-9A0563662D86}|DataAccess\\DataAccess.csproj|d:\\college\\projects\\film-diary\\backendapi\\dataaccess\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D55BB7-D49F-4935-9198-9A0563662D86}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A8C6E5-89AD-47CF-928D-D4FB6803843E}|BackendApi\\BackendApi.csproj|d:\\college\\projects\\film-diary\\backendapi\\backendapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A8C6E5-89AD-47CF-928D-D4FB6803843E}|BackendApi\\BackendApi.csproj|solutionrelative:backendapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D55BB7-D49F-4935-9198-9A0563662D86}|DataAccess\\DataAccess.csproj|d:\\college\\projects\\film-diary\\backendapi\\dataaccess\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D55BB7-D49F-4935-9198-9A0563662D86}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A8C6E5-89AD-47CF-928D-D4FB6803843E}|BackendApi\\BackendApi.csproj|d:\\college\\projects\\film-diary\\backendapi\\backendapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A8C6E5-89AD-47CF-928D-D4FB6803843E}|BackendApi\\BackendApi.csproj|solutionrelative:backendapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\college\\projects\\Film-Diary\\BackendApi\\BackendApi\\Program.cs",
+              "RelativeDocumentMoniker": "BackendApi\\Program.cs",
+              "ToolTip": "D:\\college\\projects\\Film-Diary\\BackendApi\\BackendApi\\Program.cs",
+              "RelativeToolTip": "BackendApi\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBcAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T20:16:55.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FilmDiaryContext.cs",
+              "DocumentMoniker": "D:\\college\\projects\\Film-Diary\\BackendApi\\DataAccess\\Models\\FilmDiaryContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Models\\FilmDiaryContext.cs",
+              "ToolTip": "D:\\college\\projects\\Film-Diary\\BackendApi\\DataAccess\\Models\\FilmDiaryContext.cs",
+              "RelativeToolTip": "DataAccess\\Models\\FilmDiaryContext.cs",
+              "ViewState": "AQIAAEgBAAAAAAAAAAAwwG4BAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T20:15:29.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\college\\projects\\Film-Diary\\BackendApi\\BackendApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "BackendApi\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\college\\projects\\Film-Diary\\BackendApi\\BackendApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "BackendApi\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwBAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T19:32:27.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\college\\projects\\Film-Diary\\BackendApi\\BusinessLogic\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Services\\UserService.cs",
+              "ToolTip": "D:\\college\\projects\\Film-Diary\\BackendApi\\BusinessLogic\\Services\\UserService.cs",
+              "RelativeToolTip": "BusinessLogic\\Services\\UserService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T19:30:57.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\college\\projects\\Film-Diary\\BackendApi\\BusinessLogic\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Interfaces\\IUserService.cs",
+              "ToolTip": "D:\\college\\projects\\Film-Diary\\BackendApi\\BusinessLogic\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "BusinessLogic\\Interfaces\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T19:28:10.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\college\\projects\\Film-Diary\\BackendApi\\DataAccess\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\college\\projects\\Film-Diary\\BackendApi\\DataAccess\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T19:23:53.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\college\\projects\\Film-Diary\\BackendApi\\DataAccess\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "D:\\college\\projects\\Film-Diary\\BackendApi\\DataAccess\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "DataAccess\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T19:22:41.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RepositoryWrapper.cs",
+              "DocumentMoniker": "D:\\college\\projects\\Film-Diary\\BackendApi\\DataAccess\\Wrapper\\RepositoryWrapper.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Wrapper\\RepositoryWrapper.cs",
+              "ToolTip": "D:\\college\\projects\\Film-Diary\\BackendApi\\DataAccess\\Wrapper\\RepositoryWrapper.cs",
+              "RelativeToolTip": "DataAccess\\Wrapper\\RepositoryWrapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T19:11:59.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepositoryWrapper.cs",
+              "DocumentMoniker": "D:\\college\\projects\\Film-Diary\\BackendApi\\DataAccess\\Wrapper\\IRepositoryWrapper.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Wrapper\\IRepositoryWrapper.cs",
+              "ToolTip": "D:\\college\\projects\\Film-Diary\\BackendApi\\DataAccess\\Wrapper\\IRepositoryWrapper.cs",
+              "RelativeToolTip": "DataAccess\\Wrapper\\IRepositoryWrapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T19:11:15.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "D:\\college\\projects\\Film-Diary\\BackendApi\\DataAccess\\Repositories\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repositories\\RepositoryBase.cs",
+              "ToolTip": "D:\\college\\projects\\Film-Diary\\BackendApi\\DataAccess\\Repositories\\RepositoryBase.cs",
+              "RelativeToolTip": "DataAccess\\Repositories\\RepositoryBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T19:07:37.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepositoryBase.cs",
+              "DocumentMoniker": "D:\\college\\projects\\Film-Diary\\BackendApi\\DataAccess\\Interfaces\\IRepositoryBase.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Interfaces\\IRepositoryBase.cs",
+              "ToolTip": "D:\\college\\projects\\Film-Diary\\BackendApi\\DataAccess\\Interfaces\\IRepositoryBase.cs",
+              "RelativeToolTip": "DataAccess\\Interfaces\\IRepositoryBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T19:05:06.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\college\\projects\\Film-Diary\\BackendApi\\BackendApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "BackendApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\college\\projects\\Film-Diary\\BackendApi\\BackendApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "BackendApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA5wCAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T13:18:22.237Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
