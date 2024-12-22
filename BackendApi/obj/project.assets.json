@@ -3268,11 +3268,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\college\\projects\\Film-Diary\\BackendApi\\BackendApi\\BackendApi.csproj",
+      "projectUniqueName": "D:\\college\\projects\\Film-Diary\\BackendApi\\BackendApi.csproj",
       "projectName": "BackendApi",
-      "projectPath": "D:\\college\\projects\\Film-Diary\\BackendApi\\BackendApi\\BackendApi.csproj",
+      "projectPath": "D:\\college\\projects\\Film-Diary\\BackendApi\\BackendApi.csproj",
       "packagesPath": "C:\\Users\\Leva\\.nuget\\packages\\",
-      "outputPath": "D:\\college\\projects\\Film-Diary\\BackendApi\\BackendApi\\obj\\",
+      "outputPath": "D:\\college\\projects\\Film-Diary\\BackendApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Leva\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3289,8 +3289,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\college\\projects\\Film-Diary\\BackendApi\\BusinessLogic\\BusinessLogic.csproj": {
-              "projectPath": "D:\\college\\projects\\Film-Diary\\BackendApi\\BusinessLogic\\BusinessLogic.csproj"
+            "D:\\college\\projects\\Film-Diary\\BusinessLogic\\BusinessLogic.csproj": {
+              "projectPath": "D:\\college\\projects\\Film-Diary\\BusinessLogic\\BusinessLogic.csproj"
             }
           }
         }

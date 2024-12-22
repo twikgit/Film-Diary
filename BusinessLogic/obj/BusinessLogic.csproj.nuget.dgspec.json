@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\college\\projects\\Film-Diary\\BackendApi\\BusinessLogic\\BusinessLogic.csproj": {}
+    "D:\\college\\projects\\Film-Diary\\BusinessLogic\\BusinessLogic.csproj": {}
   },
   "projects": {
-    "D:\\college\\projects\\Film-Diary\\BackendApi\\BusinessLogic\\BusinessLogic.csproj": {
+    "D:\\college\\projects\\Film-Diary\\BusinessLogic\\BusinessLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\college\\projects\\Film-Diary\\BackendApi\\BusinessLogic\\BusinessLogic.csproj",
+        "projectUniqueName": "D:\\college\\projects\\Film-Diary\\BusinessLogic\\BusinessLogic.csproj",
         "projectName": "BusinessLogic",
-        "projectPath": "D:\\college\\projects\\Film-Diary\\BackendApi\\BusinessLogic\\BusinessLogic.csproj",
+        "projectPath": "D:\\college\\projects\\Film-Diary\\BusinessLogic\\BusinessLogic.csproj",
         "packagesPath": "C:\\Users\\Leva\\.nuget\\packages\\",
-        "outputPath": "D:\\college\\projects\\Film-Diary\\BackendApi\\BusinessLogic\\obj\\",
+        "outputPath": "D:\\college\\projects\\Film-Diary\\BusinessLogic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Leva\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\college\\projects\\Film-Diary\\BackendApi\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "D:\\college\\projects\\Film-Diary\\BackendApi\\DataAccess\\DataAccess.csproj"
+              "D:\\college\\projects\\Film-Diary\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "D:\\college\\projects\\Film-Diary\\DataAccess\\DataAccess.csproj"
               }
             }
           }
@@ -68,14 +68,14 @@
         }
       }
     },
-    "D:\\college\\projects\\Film-Diary\\BackendApi\\DataAccess\\DataAccess.csproj": {
+    "D:\\college\\projects\\Film-Diary\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\college\\projects\\Film-Diary\\BackendApi\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "D:\\college\\projects\\Film-Diary\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "D:\\college\\projects\\Film-Diary\\BackendApi\\DataAccess\\DataAccess.csproj",
+        "projectPath": "D:\\college\\projects\\Film-Diary\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\Leva\\.nuget\\packages\\",
-        "outputPath": "D:\\college\\projects\\Film-Diary\\BackendApi\\DataAccess\\obj\\",
+        "outputPath": "D:\\college\\projects\\Film-Diary\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Leva\\AppData\\Roaming\\NuGet\\NuGet.Config",

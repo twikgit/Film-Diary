@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NgeEhjXtW/eL5dUESSpiqbLf6fzt7AkbXW2CuywCHcZz+RvB4NATZvhP7D26iRw7UNx1i6NN9TIc7hsTZDujpg==",
+  "dgSpecHash": "k+UYrz56nielroPKQGqlZZQJO6Ccfw3XQDsfSZS62Ua8UeeaN6IlwOQ+RO4Lw16NBHPs8XGBmDWOYObNiTeIDQ==",
   "success": true,
-  "projectFilePath": "D:\\college\\projects\\Film-Diary\\BackendApi\\BackendApi\\BackendApi.csproj",
+  "projectFilePath": "D:\\college\\projects\\Film-Diary\\BackendApi\\BackendApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Leva\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Leva\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
