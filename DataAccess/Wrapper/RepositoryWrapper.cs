@@ -1,11 +1,7 @@
-﻿using DataAccess.Interfaces;
-using DataAccess.Models;
+﻿using Domain.Models;
 using DataAccess.Repositories;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Domain.Interfaces;
+
 
 namespace DataAccess.Wrapper
 {
@@ -25,14 +21,15 @@ namespace DataAccess.Wrapper
                 return _user;
             }
         }
+
         public RepositoryWrapper(FilmDiaryContext repositoryContext)
         {
             _repoContext = repositoryContext;
         }
 
-        public void Save()
+        public async Task Save()
         {
-            _repoContext.SaveChanges();
+            await _repoContext.SaveChangesAsync();
         }
     }
 }

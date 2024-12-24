@@ -16,8 +16,6 @@ D:\college\projects\larionov\BackendApi\BusinessLogic\obj\Debug\net8.0\ref\Busin
 D:\college\projects\Film-Diary\BusinessLogic\bin\Debug\net8.0\BusinessLogic.deps.json
 D:\college\projects\Film-Diary\BusinessLogic\bin\Debug\net8.0\BusinessLogic.dll
 D:\college\projects\Film-Diary\BusinessLogic\bin\Debug\net8.0\BusinessLogic.pdb
-D:\college\projects\Film-Diary\BusinessLogic\bin\Debug\net8.0\DataAccess.dll
-D:\college\projects\Film-Diary\BusinessLogic\bin\Debug\net8.0\DataAccess.pdb
 D:\college\projects\Film-Diary\BusinessLogic\obj\Debug\net8.0\BusinessLogic.csproj.AssemblyReference.cache
 D:\college\projects\Film-Diary\BusinessLogic\obj\Debug\net8.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
 D:\college\projects\Film-Diary\BusinessLogic\obj\Debug\net8.0\BusinessLogic.AssemblyInfoInputs.cache
@@ -29,3 +27,5 @@ D:\college\projects\Film-Diary\BusinessLogic\obj\Debug\net8.0\BusinessLogic.dll
 D:\college\projects\Film-Diary\BusinessLogic\obj\Debug\net8.0\refint\BusinessLogic.dll
 D:\college\projects\Film-Diary\BusinessLogic\obj\Debug\net8.0\BusinessLogic.pdb
 D:\college\projects\Film-Diary\BusinessLogic\obj\Debug\net8.0\ref\BusinessLogic.dll
+D:\college\projects\Film-Diary\BusinessLogic\bin\Debug\net8.0\Domain.dll
+D:\college\projects\Film-Diary\BusinessLogic\bin\Debug\net8.0\Domain.pdb

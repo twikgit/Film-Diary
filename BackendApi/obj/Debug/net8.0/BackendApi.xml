@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BackendApi</name>
+    </assembly>
+    <members>
+        <member name="M:BackendApi.Controllers.UserController.GetAll">
+            <summary>
+            Получение данных о всех пользователях
+            </summary>
+            <param name="model">Пользователь</param>
+            <returns></returns>
+        </member>
+        <member name="M:BackendApi.Controllers.UserController.GetById(System.Int32)">
+            <summary>
+            Получение данных о пользователе
+            </summary>
+            <param name="model">Пользователь</param>
+            <returns></returns>
+        </member>
+        <member name="M:BackendApi.Controllers.UserController.Add(BackendApi.Contracts.User.CreateUserRequest)">
+             <summary>
+             Создание нового пользователя
+             </summary>
+             <remarks>
+             Пример запроса:
+            
+                 POST /Todo
+                 {
+                    "username" : "boba",
+                    "pass" : "56788765",
+                    "first_name" : "Иван",
+                    "last_name" : "Иванов",
+                    "email" : "qwezxc@mail.ru"
+                 }
+            
+             </remarks>
+             <param name="model">Пользователь</param>
+             <returns></returns>
+        </member>
+        <member name="M:BackendApi.Controllers.UserController.Update(BackendApi.Contracts.User.UpdateUserRequest)">
+            <summary>
+            Изменение данных пользователя
+            </summary>
+            <param name="model">Пользователь</param>
+            <returns></returns>
+        </member>
+        <member name="M:BackendApi.Controllers.UserController.Delete(System.Int32)">
+            <summary>
+            Удаление пользователя
+            </summary>
+            <param name="model">Пользователь</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

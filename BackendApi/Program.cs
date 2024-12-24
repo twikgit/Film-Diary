@@ -1,9 +1,11 @@
 
-using BusinessLogic.Interfaces;
+using Domain.Interfaces;
 using BusinessLogic.Services;
-using DataAccess.Models;
+using Domain.Models;
 using DataAccess.Wrapper;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.OpenApi.Models;
+using System.Reflection;
 
 
 namespace BackendApi
@@ -19,7 +21,28 @@ namespace BackendApi
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
-            builder.Services.AddSwaggerGen();
+            builder.Services.AddSwaggerGen(options =>
+            {
+                options.SwaggerDoc("v1", new OpenApiInfo
+                {
+                    Version = "v1",
+                    Title = "Онлайн-дневник API",
+                    Description = "Краткое описание вашего API",
+                    Contact = new OpenApiContact
+                    {
+                        Name = "Пример контакта",
+                        Url = new Uri("https://example.com/contact")
+                    },
+                    License = new OpenApiLicense
+                    {
+                        Name = "Пример лицензии",
+                        Url = new Uri("https://example.com/license")
+                    }
+                });
+
+                var xmlFilename = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";
+                options.IncludeXmlComments(Path.Combine(AppContext.BaseDirectory, xmlFilename));
+            });
 
             builder.Services.AddDbContext<FilmDiaryContext>(options =>
             {
