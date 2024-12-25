@@ -3,60 +3,12 @@
   "WorkspaceRootPath": "D:\\college\\projects\\Film-Diary\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F7795309-9C00-4B59-BC99-A2EB5C7E0219}|BusinessLogic\\BusinessLogic.csproj|d:\\college\\projects\\film-diary\\businesslogic\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7795309-9C00-4B59-BC99-A2EB5C7E0219}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{117558E4-CBE9-4C9E-85B5-6B0499AB4D1B}|Domain\\Domain.csproj|d:\\college\\projects\\film-diary\\domain\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{117558E4-CBE9-4C9E-85B5-6B0499AB4D1B}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59A8C6E5-89AD-47CF-928D-D4FB6803843E}|BackendApi\\BackendApi.csproj|d:\\college\\projects\\film-diary\\backendapi\\contracts\\user\\createuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59A8C6E5-89AD-47CF-928D-D4FB6803843E}|BackendApi\\BackendApi.csproj|solutionrelative:backendapi\\contracts\\user\\createuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3FE2779-D4EE-495B-8A30-6172CB5884F9}|BusinessLogic.Tests\\BusinessLogic.Tests.csproj|d:\\college\\projects\\film-diary\\businesslogic.tests\\userservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3FE2779-D4EE-495B-8A30-6172CB5884F9}|BusinessLogic.Tests\\BusinessLogic.Tests.csproj|solutionrelative:businesslogic.tests\\userservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3FE2779-D4EE-495B-8A30-6172CB5884F9}|BusinessLogic.Tests\\BusinessLogic.Tests.csproj|d:\\college\\projects\\film-diary\\businesslogic.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3FE2779-D4EE-495B-8A30-6172CB5884F9}|BusinessLogic.Tests\\BusinessLogic.Tests.csproj|solutionrelative:businesslogic.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{117558E4-CBE9-4C9E-85B5-6B0499AB4D1B}|Domain\\Domain.csproj|d:\\college\\projects\\film-diary\\domain\\interfaces\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{117558E4-CBE9-4C9E-85B5-6B0499AB4D1B}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0231B516-FF72-4409-9885-0F6B48BBD400}|Solution Items{0231B516-FF72-4409-9885-0F6B48BBD400}|D:\\college\\projects\\Film-Diary\\.editorconfig||{68B46364-D378-42F2-9E72-37D86C5F4468}",
-      "RelativeMoniker": "D:0:0:{0231B516-FF72-4409-9885-0F6B48BBD400}|Solution Items{0231B516-FF72-4409-9885-0F6B48BBD400}|solutionrelative:.editorconfig||{68B46364-D378-42F2-9E72-37D86C5F4468}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{117558E4-CBE9-4C9E-85B5-6B0499AB4D1B}|Domain\\Domain.csproj|d:\\college\\projects\\film-diary\\domain\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{117558E4-CBE9-4C9E-85B5-6B0499AB4D1B}|Domain\\Domain.csproj|solutionrelative:domain\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59A8C6E5-89AD-47CF-928D-D4FB6803843E}|BackendApi\\BackendApi.csproj|d:\\college\\projects\\film-diary\\backendapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59A8C6E5-89AD-47CF-928D-D4FB6803843E}|BackendApi\\BackendApi.csproj|solutionrelative:backendapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59A8C6E5-89AD-47CF-928D-D4FB6803843E}|BackendApi\\BackendApi.csproj|d:\\college\\projects\\film-diary\\backendapi\\backendapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{59A8C6E5-89AD-47CF-928D-D4FB6803843E}|BackendApi\\BackendApi.csproj|solutionrelative:backendapi\\backendapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59A8C6E5-89AD-47CF-928D-D4FB6803843E}|BackendApi\\BackendApi.csproj|d:\\college\\projects\\film-diary\\backendapi\\contracts\\user\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59A8C6E5-89AD-47CF-928D-D4FB6803843E}|BackendApi\\BackendApi.csproj|solutionrelative:backendapi\\contracts\\user\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{59A8C6E5-89AD-47CF-928D-D4FB6803843E}|BackendApi\\BackendApi.csproj|d:\\college\\projects\\film-diary\\backendapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59A8C6E5-89AD-47CF-928D-D4FB6803843E}|BackendApi\\BackendApi.csproj|solutionrelative:backendapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59A8C6E5-89AD-47CF-928D-D4FB6803843E}|BackendApi\\BackendApi.csproj|d:\\college\\projects\\film-diary\\backendapi\\contracts\\user\\getuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59A8C6E5-89AD-47CF-928D-D4FB6803843E}|BackendApi\\BackendApi.csproj|solutionrelative:backendapi\\contracts\\user\\getuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59A8C6E5-89AD-47CF-928D-D4FB6803843E}|BackendApi\\BackendApi.csproj|d:\\college\\projects\\film-diary\\backendapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59A8C6E5-89AD-47CF-928D-D4FB6803843E}|BackendApi\\BackendApi.csproj|solutionrelative:backendapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{59A8C6E5-89AD-47CF-928D-D4FB6803843E}|BackendApi\\BackendApi.csproj|d:\\college\\projects\\film-diary\\backendapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{59A8C6E5-89AD-47CF-928D-D4FB6803843E}|BackendApi\\BackendApi.csproj|solutionrelative:backendapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -71,182 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "D:\\college\\projects\\Film-Diary\\Domain\\Interfaces\\IUserService.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\IUserService.cs",
-              "ToolTip": "D:\\college\\projects\\Film-Diary\\Domain\\Interfaces\\IUserService.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\IUserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T00:00:47.508Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\college\\projects\\Film-Diary\\BackendApi\\appsettings.json",
+              "RelativeDocumentMoniker": "BackendApi\\appsettings.json",
+              "ToolTip": "D:\\college\\projects\\Film-Diary\\BackendApi\\appsettings.json",
+              "RelativeToolTip": "BackendApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-25T17:17:48.02Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "D:\\college\\projects\\Film-Diary\\BusinessLogic\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "BusinessLogic\\Services\\UserService.cs",
-              "ToolTip": "D:\\college\\projects\\Film-Diary\\BusinessLogic\\Services\\UserService.cs",
-              "RelativeToolTip": "BusinessLogic\\Services\\UserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T23:32:37.901Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserServiceTest.cs",
-              "DocumentMoniker": "D:\\college\\projects\\Film-Diary\\BusinessLogic.Tests\\UserServiceTest.cs",
-              "RelativeDocumentMoniker": "BusinessLogic.Tests\\UserServiceTest.cs",
-              "ToolTip": "D:\\college\\projects\\Film-Diary\\BusinessLogic.Tests\\UserServiceTest.cs",
-              "RelativeToolTip": "BusinessLogic.Tests\\UserServiceTest.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAiwCQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T23:21:50.925Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "D:\\college\\projects\\Film-Diary\\BusinessLogic.Tests\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "BusinessLogic.Tests\\UnitTest1.cs",
-              "ToolTip": "D:\\college\\projects\\Film-Diary\\BusinessLogic.Tests\\UnitTest1.cs",
-              "RelativeToolTip": "BusinessLogic.Tests\\UnitTest1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T23:18:44.546Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IRepositoryBase.cs",
-              "DocumentMoniker": "D:\\college\\projects\\Film-Diary\\Domain\\Interfaces\\IRepositoryBase.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\IRepositoryBase.cs",
-              "ToolTip": "D:\\college\\projects\\Film-Diary\\Domain\\Interfaces\\IRepositoryBase.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\IRepositoryBase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T22:42:39.062Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": ".editorconfig",
-              "DocumentMoniker": "D:\\college\\projects\\Film-Diary\\.editorconfig",
-              "RelativeDocumentMoniker": ".editorconfig",
-              "ToolTip": "D:\\college\\projects\\Film-Diary\\.editorconfig",
-              "RelativeToolTip": ".editorconfig",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-12-24T22:40:49.449Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UpdateUserRequest.cs",
-              "DocumentMoniker": "D:\\college\\projects\\Film-Diary\\BackendApi\\Contracts\\User\\UpdateUserRequest.cs",
-              "RelativeDocumentMoniker": "BackendApi\\Contracts\\User\\UpdateUserRequest.cs",
-              "ToolTip": "D:\\college\\projects\\Film-Diary\\BackendApi\\Contracts\\User\\UpdateUserRequest.cs",
-              "RelativeToolTip": "BackendApi\\Contracts\\User\\UpdateUserRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T22:33:56.983Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CreateUserRequest.cs",
-              "DocumentMoniker": "D:\\college\\projects\\Film-Diary\\BackendApi\\Contracts\\User\\CreateUserRequest.cs",
-              "RelativeDocumentMoniker": "BackendApi\\Contracts\\User\\CreateUserRequest.cs",
-              "ToolTip": "D:\\college\\projects\\Film-Diary\\BackendApi\\Contracts\\User\\CreateUserRequest.cs",
-              "RelativeToolTip": "BackendApi\\Contracts\\User\\CreateUserRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T21:43:28.588Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\college\\projects\\Film-Diary\\BackendApi\\Program.cs",
               "RelativeDocumentMoniker": "BackendApi\\Program.cs",
               "ToolTip": "D:\\college\\projects\\Film-Diary\\BackendApi\\Program.cs",
               "RelativeToolTip": "BackendApi\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACIAAAAWAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCIAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-22T20:16:55.969Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "D:\\college\\projects\\Film-Diary\\Domain\\Models\\Customer.cs",
-              "RelativeDocumentMoniker": "Domain\\Models\\Customer.cs",
-              "ToolTip": "D:\\college\\projects\\Film-Diary\\Domain\\Models\\Customer.cs",
-              "RelativeToolTip": "Domain\\Models\\Customer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T20:57:24.242Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\college\\projects\\Film-Diary\\BackendApi\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "BackendApi\\Controllers\\UserController.cs",
-              "ToolTip": "D:\\college\\projects\\Film-Diary\\BackendApi\\Controllers\\UserController.cs",
-              "RelativeToolTip": "BackendApi\\Controllers\\UserController.cs",
-              "ViewState": "AQIAADUAAAAAAAAAAAAwwFcAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T19:32:27.756Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "GetUserResponse.cs",
-              "DocumentMoniker": "D:\\college\\projects\\Film-Diary\\BackendApi\\Contracts\\User\\GetUserResponse.cs",
-              "RelativeDocumentMoniker": "BackendApi\\Contracts\\User\\GetUserResponse.cs",
-              "ToolTip": "D:\\college\\projects\\Film-Diary\\BackendApi\\Contracts\\User\\GetUserResponse.cs",
-              "RelativeToolTip": "BackendApi\\Contracts\\User\\GetUserResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T21:43:45.344Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "BackendApi",
-              "DocumentMoniker": "D:\\college\\projects\\Film-Diary\\BackendApi\\BackendApi.csproj",
-              "RelativeDocumentMoniker": "BackendApi\\BackendApi.csproj",
-              "ToolTip": "D:\\college\\projects\\Film-Diary\\BackendApi\\BackendApi.csproj",
-              "RelativeToolTip": "BackendApi\\BackendApi.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-24T21:39:34.49Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "D:\\college\\projects\\Film-Diary\\BackendApi\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "BackendApi\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "D:\\college\\projects\\Film-Diary\\BackendApi\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "BackendApi\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAgwCAAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T13:18:22.237Z",
               "EditorCaption": ""
             }
           ]

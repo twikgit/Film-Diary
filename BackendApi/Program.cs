@@ -44,10 +44,8 @@ namespace BackendApi
                 options.IncludeXmlComments(Path.Combine(AppContext.BaseDirectory, xmlFilename));
             });
 
-            builder.Services.AddDbContext<FilmDiaryContext>(options =>
-            {
-                options.UseSqlServer(builder.Configuration.GetConnectionString("FilmDiaryDbContext"));
-            });
+            builder.Services.AddDbContext<FilmDiaryContext>(
+                options => options.UseSqlServer(builder.Configuration["ConnectionString"]));
 
             builder.Services.AddScoped<IRepositoryWrapper, RepositoryWrapper>();
             builder.Services.AddScoped<IUserService, UserService>();
@@ -56,8 +54,10 @@ namespace BackendApi
 
             using (var scope = app.Services.CreateScope())
             {
-                var dbContext = scope.ServiceProvider.GetRequiredService<FilmDiaryContext>();
+                var services = scope.ServiceProvider;
 
+                var context = services.GetRequiredService<FilmDiaryContext>();
+                context.Database.Migrate();
                 /*if (!dbContext.Database.CanConnect())
                 {
                     throw new NotImplementedException("Не удается подключиться к БД");
