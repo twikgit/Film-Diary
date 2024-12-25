@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\college\\projects\\Film-Diary\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D3FE2779-D4EE-495B-8A30-6172CB5884F9}|BusinessLogic.Tests\\BusinessLogic.Tests.csproj|d:\\college\\projects\\film-diary\\businesslogic.tests\\userservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3FE2779-D4EE-495B-8A30-6172CB5884F9}|BusinessLogic.Tests\\BusinessLogic.Tests.csproj|solutionrelative:businesslogic.tests\\userservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F7795309-9C00-4B59-BC99-A2EB5C7E0219}|BusinessLogic\\BusinessLogic.csproj|d:\\college\\projects\\film-diary\\businesslogic\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7795309-9C00-4B59-BC99-A2EB5C7E0219}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117558E4-CBE9-4C9E-85B5-6B0499AB4D1B}|Domain\\Domain.csproj|d:\\college\\projects\\film-diary\\domain\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{117558E4-CBE9-4C9E-85B5-6B0499AB4D1B}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A8C6E5-89AD-47CF-928D-D4FB6803843E}|BackendApi\\BackendApi.csproj|d:\\college\\projects\\film-diary\\backendapi\\contracts\\user\\createuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A8C6E5-89AD-47CF-928D-D4FB6803843E}|BackendApi\\BackendApi.csproj|solutionrelative:backendapi\\contracts\\user\\createuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FE2779-D4EE-495B-8A30-6172CB5884F9}|BusinessLogic.Tests\\BusinessLogic.Tests.csproj|d:\\college\\projects\\film-diary\\businesslogic.tests\\userservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3FE2779-D4EE-495B-8A30-6172CB5884F9}|BusinessLogic.Tests\\BusinessLogic.Tests.csproj|solutionrelative:businesslogic.tests\\userservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D3FE2779-D4EE-495B-8A30-6172CB5884F9}|BusinessLogic.Tests\\BusinessLogic.Tests.csproj|d:\\college\\projects\\film-diary\\businesslogic.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,10 +51,6 @@
       "RelativeMoniker": "D:0:0:{59A8C6E5-89AD-47CF-928D-D4FB6803843E}|BackendApi\\BackendApi.csproj|solutionrelative:backendapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59A8C6E5-89AD-47CF-928D-D4FB6803843E}|BackendApi\\BackendApi.csproj|d:\\college\\projects\\film-diary\\backendapi\\contracts\\user\\createuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59A8C6E5-89AD-47CF-928D-D4FB6803843E}|BackendApi\\BackendApi.csproj|solutionrelative:backendapi\\contracts\\user\\createuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{59A8C6E5-89AD-47CF-928D-D4FB6803843E}|BackendApi\\BackendApi.csproj|d:\\college\\projects\\film-diary\\backendapi\\contracts\\user\\getuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59A8C6E5-89AD-47CF-928D-D4FB6803843E}|BackendApi\\BackendApi.csproj|solutionrelative:backendapi\\contracts\\user\\getuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -67,32 +71,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\college\\projects\\Film-Diary\\Domain\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IUserService.cs",
+              "ToolTip": "D:\\college\\projects\\Film-Diary\\Domain\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T00:00:47.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "UserService.cs",
               "DocumentMoniker": "D:\\college\\projects\\Film-Diary\\BusinessLogic\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "BusinessLogic\\Services\\UserService.cs",
               "ToolTip": "D:\\college\\projects\\Film-Diary\\BusinessLogic\\Services\\UserService.cs",
               "RelativeToolTip": "BusinessLogic\\Services\\UserService.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCsAAAA1AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-24T23:32:37.901Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "UserServiceTest.cs",
               "DocumentMoniker": "D:\\college\\projects\\Film-Diary\\BusinessLogic.Tests\\UserServiceTest.cs",
               "RelativeDocumentMoniker": "BusinessLogic.Tests\\UserServiceTest.cs",
               "ToolTip": "D:\\college\\projects\\Film-Diary\\BusinessLogic.Tests\\UserServiceTest.cs",
               "RelativeToolTip": "BusinessLogic.Tests\\UserServiceTest.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAiwBsAAAA/AAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAiwCQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-24T23:21:50.925Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "D:\\college\\projects\\Film-Diary\\BusinessLogic.Tests\\UnitTest1.cs",
               "RelativeDocumentMoniker": "BusinessLogic.Tests\\UnitTest1.cs",
@@ -105,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "IRepositoryBase.cs",
               "DocumentMoniker": "D:\\college\\projects\\Film-Diary\\Domain\\Interfaces\\IRepositoryBase.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\IRepositoryBase.cs",
@@ -118,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": ".editorconfig",
               "DocumentMoniker": "D:\\college\\projects\\Film-Diary\\.editorconfig",
               "RelativeDocumentMoniker": ".editorconfig",
@@ -130,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "UpdateUserRequest.cs",
               "DocumentMoniker": "D:\\college\\projects\\Film-Diary\\BackendApi\\Contracts\\User\\UpdateUserRequest.cs",
               "RelativeDocumentMoniker": "BackendApi\\Contracts\\User\\UpdateUserRequest.cs",
@@ -143,20 +160,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 2,
               "Title": "CreateUserRequest.cs",
               "DocumentMoniker": "D:\\college\\projects\\Film-Diary\\BackendApi\\Contracts\\User\\CreateUserRequest.cs",
               "RelativeDocumentMoniker": "BackendApi\\Contracts\\User\\CreateUserRequest.cs",
               "ToolTip": "D:\\college\\projects\\Film-Diary\\BackendApi\\Contracts\\User\\CreateUserRequest.cs",
               "RelativeToolTip": "BackendApi\\Contracts\\User\\CreateUserRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAxAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-24T21:43:28.588Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\college\\projects\\Film-Diary\\BackendApi\\Program.cs",
               "RelativeDocumentMoniker": "BackendApi\\Program.cs",
@@ -169,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Customer.cs",
               "DocumentMoniker": "D:\\college\\projects\\Film-Diary\\Domain\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\Customer.cs",
@@ -182,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "UserController.cs",
               "DocumentMoniker": "D:\\college\\projects\\Film-Diary\\BackendApi\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "BackendApi\\Controllers\\UserController.cs",
@@ -195,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "GetUserResponse.cs",
               "DocumentMoniker": "D:\\college\\projects\\Film-Diary\\BackendApi\\Contracts\\User\\GetUserResponse.cs",
               "RelativeDocumentMoniker": "BackendApi\\Contracts\\User\\GetUserResponse.cs",
@@ -208,7 +225,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "BackendApi",
               "DocumentMoniker": "D:\\college\\projects\\Film-Diary\\BackendApi\\BackendApi.csproj",
               "RelativeDocumentMoniker": "BackendApi\\BackendApi.csproj",
@@ -221,7 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "D:\\college\\projects\\Film-Diary\\BackendApi\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "BackendApi\\Controllers\\WeatherForecastController.cs",

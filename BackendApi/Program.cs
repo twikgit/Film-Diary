@@ -58,10 +58,10 @@ namespace BackendApi
             {
                 var dbContext = scope.ServiceProvider.GetRequiredService<FilmDiaryContext>();
 
-                if (!dbContext.Database.CanConnect())
+                /*if (!dbContext.Database.CanConnect())
                 {
                     throw new NotImplementedException("Не удается подключиться к БД");
-                }
+                }*/
             }
 
                 // Configure the HTTP request pipeline.
